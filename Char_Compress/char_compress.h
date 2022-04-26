@@ -1,0 +1,1 @@
+char* Char_Compress(char A[]);
