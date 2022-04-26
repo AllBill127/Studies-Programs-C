@@ -1,0 +1,31 @@
+8 9
+[1, 2] a 4
+[1, 3] a 1
+[2, 4] b 3
+[2, 5] c 8
+[3, 4] e 2
+[3, 6] c 6
+[4, 5] e 4
+[5, 7] d 2
+[6, 7] d 8
+
+1 -> 7 a
+
+
+//City1 = 1
+//City2 = 2
+//City3 = 3
+//City4 = 4
+//City5 = 5
+//City6 = 6
+
+//Owner1 = a
+//Owner2 = b
+//Owner3 = c
+//Owner4 = d
+//Owner5 = e
+
+1. number of verticies
+2. number of connections
+3. connections [source, destination] and owner, price of connections
+4. starting point -> end point and who is traveling
